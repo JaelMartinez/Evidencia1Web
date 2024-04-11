@@ -53,4 +53,27 @@ Aquí puedes encontrar los diferentes diagramas del proyecto:
 4. ![Diagrama de clases](https://github.com/JaelMartinez/Evidencia1Web/blob/main/Diagrama%20en%20blanco%20(2).png?raw=true)
 5. ![Diagrama BPMN](https://github.com/JaelMartinez/Evidencia1Web/blob/main/image.png?raw=true)
 
+   ## Descripción
+Este repositorio contiene el código fuente del proyecto XYZ, el cual es una aplicación web para gestionar órdenes y usuarios.
+
+## Cambios Realizados
+
+### Modelos
+- Se crearon los modelos correspondientes para las entidades del proyecto.
+- Se definieron las relaciones entre los modelos en los archivos de modelo.
+
+### Migraciones
+- Se crearon las migraciones correspondientes para las entidades, asegurando la integridad de las claves primarias y foráneas.
+
+### Controladores
+- Se implementaron los controladores necesarios con los métodos requeridos por la aplicación.
+
+### Semillas de Datos
+- Se pobló la base de datos con datos de prueba utilizando seeders o factories según corresponda.
+
+### Vistas Básicas
+- Se crearon las vistas básicas necesarias para la funcionalidad del proyecto.
+- Las vistas incluyen la página de inicio con un formulario de búsqueda por número de factura, un dashboard con enlaces, y listados básicos de usuarios y órdenes.
+
+
 ¡Gracias por tu interés en mi proyecto!
