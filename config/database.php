@@ -126,7 +126,9 @@ return [
         'table' => 'migrations',
         'update_date_on_publish' => true,
     ],
-
+    'factories' => [
+        'C:\xampp\htdocs\Laravel\Evidencia2Web\database\factories',
+    ],
     /*
     |--------------------------------------------------------------------------
     | Redis Databases
